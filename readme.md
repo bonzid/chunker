@@ -1,9 +1,9 @@
+Ce projet répond aux exigences, aux restrictions et à des consignes d'un travail demandé dans le cadre d'un cours.
+
 # Projet : Développement d'un moteur à base de règles pour la segmentation en chunks
 
 Ce projet consiste à développer un moteur à base de règles (MBR) pour segmenter un texte brut en chunks. Il a été réalisé dans le cadre d'un cours **Formalismes pour le TAL** en avril 2024.
-
-Ce chunker a été réalisée sur la base d'un texte spécifique venant du Gorafi (texte.txt). **Nos règles et nos lexiques ont été construits sur la base spécifique de ce texte.** Nous avons testé ce moteur sur un autre texte du Gorafi.
-
+Ce chunker a été réalisée sur la base d'[un texte spécifique](https://www.legorafi.fr/2024/01/23/il-meurt-de-vieillesse-en-tentant-de-fermer-tous-les-onglets-ouverts-par-ses-parents/) venant du Gorafi (texte.txt). **Nos règles et nos lexiques ont été construits sur la base spécifique de ce texte.** Nous avons testé ce moteur sur [un autre texte](https://www.legorafi.fr/2023/09/19/astrologie-mercure-percute-accidentellement-un-semi-remorque-sur-la6-en-retrogradant-trop-tot/) du Gorafi (texte_test.txt).
 
 ## Fonctionnalités
 
