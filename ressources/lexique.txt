@@ -1,0 +1,7 @@
+PRON	Il, en, tous, en, il, je, ça, c’, celle, nous, en, se, On, cela, C’
+PREP	de, par, à, pour, aux, d’, sur, après, Au, au, du, derrière, dans, Et, avec, Dans, De, jusqu’, sans, avant, et
+PUNCT	;, ,, ., ", \n, :, !, ..., “, ”, …, «, »
+CONJ	alors, mais, comme, puis, quand
+PRON.REL	qu’, que, Qu’, qui
+DET	les, le, ses, un, ce, notre, l’, des, la, une, Chaque, Une, Ce
+NEG	ne, n’

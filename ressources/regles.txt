@@ -1,0 +1,11 @@
+1	PUNCT	[PCTF
+2	PRON	[SN
+3	PRON.REL	[PR
+4	PREP	[SP
+5	DET+NEG	[SVc
+6	DET+PRON.REL	[PR
+7	DET	[SN
+8	CONJ	[C
+9	r'(([0-9])+)'	[SN
+10	r'(\w{7,}ent\b)'	[SA
+11	r'(^[A-Z])\w+'	[SN
